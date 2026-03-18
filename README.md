@@ -22,17 +22,16 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/l3c-yPbsDq8AAAAd/frog.gif"  />
-
-###
-
 ###
 
 <h2>💻 Tech Stack</h2>
 
-<h3>Languages</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<table>
+<tr>
+<td valign="top" width="50%" >
+
+<h3 style="margin-top: 0;">Languages</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -42,14 +41,22 @@
 </div>
 
 <h3>Mobile & Game Development</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-<h3>Web Development</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
+<h3>Tools & Version Control</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+<h3 style="margin-top: 0;">Web Development</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -57,17 +64,18 @@
 </div>
 
 <h3>Database</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-<h3>Tools & Version Control</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
 </div>
 
 <h3>Design</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
 </div>
+
+</td>
+</tr>
+</table>
