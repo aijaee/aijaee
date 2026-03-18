@@ -26,9 +26,9 @@
 
 <h2>💻 Tech Stack</h2>
 
-<table>
+<table border="0" width="100%" style="border-collapse: collapse;">
 <tr>
-<td valign="top" width="50%" >
+<td valign="top" width="50%" style="padding: 20px; border: none;">
 
 <h3 style="margin-top: 0;">Languages</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -53,7 +53,7 @@
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="padding: 20px; border: none;">
 
 <h3 style="margin-top: 0;">Web Development</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
