@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aijaee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&bg_color=F0FFF0&text_color=2F5233&title_color=558B2F&icon_color=558B2F" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aijaee&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&bg_color=F0FFF0&text_color=2F5233&title_color=558B2F&icon_color=558B2F" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aijaee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&bg_color=F0FFF0&text_color=2F5233&title_color=558B2F&icon_color=558B2F" height="150" alt="languages graph"  />
 </div>
 
